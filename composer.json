@@ -1,5 +1,5 @@
 {
-    "name": "pits/safercomposer",
+    "name": "pits/saferpay",
     "type": "oxideshop-module",
     "description": "Pits Saferpay Composer module for OXID eShop.",
     "require": {
