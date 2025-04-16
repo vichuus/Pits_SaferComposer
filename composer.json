@@ -3,7 +3,7 @@
     "type": "oxideshop-module",
     "description": "Pits Saferpay Composer module for OXID eShop.",
     "require": {
-        "oxid-esales/oxideshop-metapackage-ce": "v7.0.4"
+        "oxid-esales/oxideshop-metapackage-ce": "v7.2"
     },
     "autoload": {
         "psr-4": {
